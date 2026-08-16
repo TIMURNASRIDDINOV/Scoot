@@ -1,0 +1,7 @@
+{
+  "name": "Scoot",
+  "description": "Scooter-sharing demo for Tashkent — native rider app, back-office fleet operations panel, and simulated IoT fleet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

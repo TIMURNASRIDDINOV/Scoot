@@ -1,0 +1,53 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Back Wheel -->
+    <path
+        android:fillColor="#00E599"
+        android:pathData="M 32,74 A 8,8 0 1,1 32,58 A 8,8 0 1,1 32,74 Z" />
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M 32,70 A 4,4 0 1,1 32,62 A 4,4 0 1,1 32,70 Z" />
+
+    <!-- Front Wheel -->
+    <path
+        android:fillColor="#00E599"
+        android:pathData="M 76,74 A 8,8 0 1,1 76,58 A 8,8 0 1,1 76,74 Z" />
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M 76,70 A 4,4 0 1,1 76,62 A 4,4 0 1,1 76,70 Z" />
+
+    <!-- Deck & Chassis -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 32,64 L 68,64 C 70,64 72,65 73,66 L 76,66 L 76,69 L 32,69 Z" />
+
+    <!-- Steering Stem & Handlebars -->
+    <path
+        android:fillColor="#00E599"
+        android:pathData="M 68.5,33 L 73.5,66 L 70.5,66.5 L 65.5,33.5 Z" />
+    
+    <!-- Handlebar Head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 60,33 C 60,31.5 61.5,30 63,30 L 74,30 C 75.5,30 77,31.5 77,33 L 60,33 Z" />
+    
+    <!-- Headlight Beam (Cyan Accent) -->
+    <path
+        android:fillColor="#00C9FF"
+        android:pathData="M 77,31 L 90,27 L 92,35 L 77,34 Z"
+        android:fillAlpha="0.85" />
+
+    <!-- Speed/Energy Arc -->
+    <path
+        android:fillColor="#00E599"
+        android:pathData="M 24,54 L 38,54 L 34,57 L 20,57 Z"
+        android:fillAlpha="0.7" />
+    <path
+        android:fillColor="#00C9FF"
+        android:pathData="M 22,48 L 34,48 L 30,51 L 18,51 Z"
+        android:fillAlpha="0.5" />
+</vector>
+
